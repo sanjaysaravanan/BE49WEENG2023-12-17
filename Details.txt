@@ -1,0 +1,68 @@
+
+
+Information:
+
+  Please start preparing for the Mock Interview 2, which may/will be conducted on Dec 30 or 31
+
+  Topics: Roadmap & Concepts learned/discussed till Dec 24.
+
+
+Topics:
+
+  Custom Middleware:
+
+    piece of codes which can be executed in-between
+
+      in-coming request & Logic in the routes/controller
+
+  
+  Email Sending:
+
+
+    Google account with APP Key
+      app-key: eraf lsph bbcy rnyo
+    
+    nodemailer library
+      transporter object which takes in service, auth
+      simple mail options for sending the email
+  
+  JWT:
+    JSON WEB Token
+
+    Authorization:
+      securing individual APIs for more protection
+
+  Registration Verify Email:
+    created a simple ui in frontend for the mail url
+
+    created a simple api to Verify the jwt and set verified flag to true
+
+Task:
+
+  Day 37: password reset flow
+    https://docs.google.com/document/d/1I7zwdMN77E3JwSXtgp2pVKgcAqPBHOwczishsKak-Qk/edit
+
+  
+  Day 38: URL Shortner
+
+    db collection should contain three things,
+
+      url-id: sdadasdasd
+      actulaUrl: https://docs.google.com/document/d/sdfasdfasdflasdflahsdlfhalsdhlsdhfkahsdkfhads
+      userid: dfasddsd
+      shorturl:
+          FE: 
+          https://<netlify-url>.com/sdadasdasd
+          BE:
+          https://<render-url>.com/sdadasdasd
+      
+      reference: https://blog.logrocket.com/how-build-url-shortener-node-js/
+
+
+Next Session:
+  Authorization:
+    authenticating individual APIs to give protection at the api level
+
+  
+
+
